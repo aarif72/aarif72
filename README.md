@@ -93,7 +93,7 @@
       </td>
       <td>
       <ul>
-      <li>• This internship at CodSoft has provided me valuable insights and skills that
+      <li> This internship at CodSoft has provided me valuable insights and skills that
 will undoubtedly shape my future in the tech industry</li>
 <!--       <li>Designed functions to navigate and search through the filesystem on a respected storage device.</li> -->
       </ul>
