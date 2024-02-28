@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aarif Ansari</h1>
+<h1 align="center">Hi 👋There</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarif72&label=Profile%20views&color=0e75b6&style=flat" alt="aarif72" /> </p>
@@ -48,6 +48,63 @@
 
 <br/>
 <hr/>
+<div align="center">
+    <img  alt="Coding" width="400" src="![image](https://github.com/aarif72/aarif72/assets/106108640/fff5914f-1dd0-40d4-a653-23013d0b30f4)
+">
+</div>
+
+
+
+## My Work Experience
+
+<table border='5'>
+  <thead>
+    <tr>
+      <td>
+        <center><strong>Job Name</strong></center>
+      </td>
+      <td>
+        <center><strong>Roles & responsibilities </strong></center>
+      </td>
+      <td>
+        <center><strong>Duration</strong></center>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <em><b>Web Developer Intern</b></em><br />
+         (CodSoft)
+      </td>
+      <td>
+      <ul>
+      <li>Worked on frontend of Websites</li>
+      <li>Integrated backend of the application with frontend</li>
+      </ul>
+      </td>
+      <td>
+        sept 2023 - oct 2023
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <em><b>Web Dev Intern</b></em><br />
+        (codecasa)
+      </td>
+      <td>
+      <ul>
+      <li>• This internship at CodSoft has provided me valuable insights and skills that
+will undoubtedly shape my future in the tech industry</li>
+<!--       <li>Designed functions to navigate and search through the filesystem on a respected storage device.</li> -->
+      </ul>
+      </td>
+      <td>
+        oct 2023
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -79,36 +136,8 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
-
-
-<h1 align="center">Hi 👋, I'm Aarif Ansari</h1>
-<h3 align="center">A passionate Software Developer Engineer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<h1 align="center">Hi 👋, I'm Aarif</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarif72&show_icons=true&locale=en&layout=compact" alt="aarif72" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarif72&show_icons=true&locale=en" alt="aarif72" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarif72&" alt="aarif72" /></p>
 
 
 
