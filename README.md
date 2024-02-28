@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aarif+Ansari!;" />
 </h1>
 
-<h3 align="center">A passionate software Developer Engineer</h3>
+<h3 align="center">A passionate Software Developer Engineer</h3>
 
 <br/>
 
@@ -49,8 +49,7 @@
 <br/>
 <hr/>
 <div align="center">
-    <img  alt="Coding" width="400" src="![image](https://github.com/aarif72/aarif72/assets/106108640/fff5914f-1dd0-40d4-a653-23013d0b30f4)
-">
+    <img  border-radius= "25" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 
